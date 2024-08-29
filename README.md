@@ -29,7 +29,10 @@ Dbug.Emphasis($"My Integer is: {myInteger}");
 
 ![Dbug Stack](https://github.com/SpawnCampGames/Dbug/blob/main/img/DbugStack.png)
 
-### Included :
+### Included:
+
+![Dbug Burn In](https://github.com/SpawnCampGames/Dbug/blob/main/img/DbugBurnIn.png)
+
 #### Regular Logs
 ```csharp
 Dbug.Log(msg);

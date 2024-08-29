@@ -75,11 +75,10 @@ Dbug.Failed(msg);
 ```
 
 #### 🍦Chose your flavor.
-> To create your own stylized log
+> To create your own stylized log `msg, #hexcolor, bold, italic, underline, strikethrough`
 ```csharp
 Dbug.MyLog(msg, #FFFFFF, false, false, false, false);
 ```
-`msg, #hexcolor, bold, italic, underline, strikethrough`
 
 >[!IMPORTANT]
 > Similar to Debug Logs, I suggest removing all `Dbug` methods prior to final build.

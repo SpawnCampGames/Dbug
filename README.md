@@ -81,6 +81,9 @@ Dbug.MyLog(msg, #FFFFFF, false, false, false, false);
 ```
 `msg, #hexcolor, bold, italic, underline, strikethrough`
 
+>[!IMPORTANT]
+> Similar to Debug Logs, I suggest removing all `Dbug` methods prior to final build.
+
 ---
 
 ### 📗DbugDiagnostic.cs
